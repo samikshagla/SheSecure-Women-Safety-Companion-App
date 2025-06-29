@@ -1,6 +1,6 @@
 #  SheSecure – Women’s Safety Companion App
 
-> **Because feeling safe is your right.**
+> **Your Digital Guardian.**
 
 **SheSecure** is a full-stack mobile application designed to enhance the personal safety of women in public spaces. The app offers real-time location tracking, voice-triggered SOS alerts, AI-powered safe route suggestions, and a virtual chatbot companion for emotional support.
 
